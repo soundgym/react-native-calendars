@@ -24,6 +24,7 @@ export const textDayHeaderFontWeight = undefined;
 export const todayButtonFontWeight = '600';
 
 export const textDayFontSize = 16;
+export const textDayLineHeight = 18;
 export const textMonthFontSize = 16;
 export const textDayHeaderFontSize = 13;
 export const todayButtonFontSize = 14;
